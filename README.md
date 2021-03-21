@@ -60,10 +60,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jypark92&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jypark92&layout=compact&theme=cobalt)](https://github.com/jypark92/github-readme-stats)
 
- <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjypark92)](https://hits.seeyoufarm.com) 
-	
-  </div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjypark92%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=about-dot-me.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 
