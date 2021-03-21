@@ -1,5 +1,7 @@
 ### Hi there, 👋 I'm JaeYong 🌱
 
+- 🌱 I’m currently learning javaScript, java, spring
+
 <!--
 **jypark92/jypark92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
