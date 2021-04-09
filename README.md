@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 </td></tr></table>  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jypark92&show_icons=true&theme=cobalt)
+![jypark92's GitHub stats](https://github-readme-stats.vercel.app/api?username=jypark92&show_icons=true&theme=cobalt)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jypark92&layout=compact&theme=cobalt&hide=jupyter%20notebook,python)](https://github.com/anuraghazra/github-readme-stats)
 -->
