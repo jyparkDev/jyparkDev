@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 </td></tr></table>  
 
-![jypark92's GitHub stats](https://github-readme-stats.vercel.app/api?username=jypark92&show_icons=true&count_private=true&theme=cobalt)
+![jypark92's GitHub stats](https://github-readme-stats.vercel.app/api?username=jypark92&show_icons=true&count_private=true&theme=cobalt&hide=contribs,prs)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jypark92&layout=compact&theme=cobalt&hide=jupyter%20notebook,python)](https://github.com/anuraghazra/github-readme-stats)
