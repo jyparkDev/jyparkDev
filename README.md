@@ -1,6 +1,6 @@
 ### 안녕하세요👋 주니어 백엔드 개발자 박재용입니다.
 ----------------------------
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning JAVA & SPRING
 ----------------------------
 <!--
 **jypark92/jypark92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
