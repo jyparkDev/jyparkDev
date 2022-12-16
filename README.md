@@ -1,15 +1,15 @@
 # 🤚 PARK JAE YONG 
 
 ![jypark92's GitHub stats](https://github-readme-stats.vercel.app/api?username=jypark92&show_icons=true&count_private=true&theme=tokyonight&card_width=400px)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjjy92)](https://solved.ac/pjjy92/)
+<div align="left">
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjypark92%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=about-dot-me.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>  
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jypark92&layout=compact&card_width=50&theme=cobalt&hide=jupyter%20notebook,python)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-
-#
 
 ## 💻 Skills
 #### - FRONT
@@ -34,21 +34,6 @@
 #### - ML/DL
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-F05032.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
-
-# 
-<div align="left">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjypark92%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=about-dot-me.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>  
-
-
-
-
-
-
-
-
 
 
 
