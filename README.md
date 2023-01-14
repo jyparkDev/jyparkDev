@@ -1,6 +1,6 @@
 # 🤚 PARK JAE YONG 
 
-![jypark92's GitHub stats](https://github-readme-stats.vercel.app/api?username=jypark92&show_icons=true&count_private=true&theme=tokyonight&card_width=400px)
+![jypark92's GitHub stats](https://github-readme-stats.vercel.app/api?username=jypark92&show_icons=true&theme=tokyonight&card_width=400px&count_private=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjjy92)](https://solved.ac/pjjy92/)
 <div align="left">
 
