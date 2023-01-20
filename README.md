@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=DA70D6&size=45&center=true&vCenter=true&width=404&height=200&lines=%E3%80%80%E3%80%80Park+Jae+Yong+%E3%80%80%E3%80%80) -->
 
 <!--  https://github-readme-stats.vercel.app/api?username=cheese10yun&show_icons=true&theme=merko -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jyparkDev&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jyparkDev&show_icons=true&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjjy92)](https://solved.ac/pjjy92/)
 <div align="left">
