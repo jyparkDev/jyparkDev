@@ -2,7 +2,7 @@
 <!-- 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=DA70D6&size=45&center=true&vCenter=true&width=404&height=200&lines=%E3%80%80%E3%80%80Park+Jae+Yong+%E3%80%80%E3%80%80) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.zohan.tech/api?username=jyparkDev&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.zohan.tech/api?username=jyparkDev&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjjy92)](https://solved.ac/pjjy92/)
 <div align="left">
 
