@@ -96,6 +96,6 @@ Here are some ideas to get you started:
 
 
 
-</td></tr></table>  
+</td></tr></table> 
 -->
 
