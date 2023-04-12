@@ -1,16 +1,15 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=200&section=header&text=I'm%20Park%20jaeyong&fontSize=60&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=160&section=header&text=I'm%20Park%20jaeyong&fontSize=60&fontAlign=50)
 
   ###  :wave: Welcome my github profile !
   <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjypark92%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=about-dot-me.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
-  <br/><br/> <br/><br/><br/>
+  <br/><br/> <br/>
  
   ###  :computer: Tech Stack
- <br/>
   
 <!-- ###### FRONT
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
@@ -37,8 +36,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-F05032.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
   
-
-  <br/><br/> <br/><br/><br/>
+  <br/><br/>  <br/>
 ###   :star: Stats 
 
 <!-- 
