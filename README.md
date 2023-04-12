@@ -1,41 +1,59 @@
-# 🤚 PARK JAE YONG 
-<!-- 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=DA70D6&size=45&center=true&vCenter=true&width=404&height=200&lines=%E3%80%80%E3%80%80Park+Jae+Yong+%E3%80%80%E3%80%80) -->
+<div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=200&section=header&text=I'm%20Park%20jaeyong&fontSize=60&fontAlign=50)
 
-![Anurag's GitHub stats](https://github-readme-stats.zohan.tech/api?username=jyparkDev&show_icons=true&theme=tokyonight)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjjy92)](https://solved.ac/pjjy92/)
-<div align="left">
+  ###  :wave: Welcome my github profile !
+  <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjypark92%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=about-dot-me.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+  <br/><br/> <br/><br/><br/>
+ 
+  ###  :computer: Tech Stack
+ <br/>
+  
+<!-- ###### FRONT
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
+![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white) -->
+
+##### - BACK -
+  
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![hibernate](https://img.shields.io/badge/hibernate-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white)
+  
+##### - Tools -
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+  
+##### - ML/DL -
+![TensorFlow](https://img.shields.io/badge/TensorFlow-F05032.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
+  
+
+  <br/><br/> <br/><br/><br/>
+###   :star: Stats 
+
+<!-- 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=DA70D6&size=45&center=true&vCenter=true&width=404&height=200&lines=%E3%80%80%E3%80%80Park+Jae+Yong+%E3%80%80%E3%80%80) -->
+<br/>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjjy92)](https://solved.ac/pjjy92/)
+  
+![Anurag's GitHub stats](https://github-readme-stats.zohan.tech/api?username=jyparkDev&show_icons=true&theme=tokyonight&layout=compact)
 
 </div>  
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jypark92&layout=compact&card_width=50&theme=cobalt&hide=jupyter%20notebook,python)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-## 💻 Skills
-#### - FRONT
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white)
-
-#### - BACK
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-
-#### - Tools
-![Git](https://img.shields.io/badge/Git-FF6F00.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-#### - ML/DL
-![TensorFlow](https://img.shields.io/badge/TensorFlow-F05032.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
 
 
 
