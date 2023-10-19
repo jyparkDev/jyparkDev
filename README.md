@@ -1,53 +1,91 @@
-<div align=center>
+<hr>
+<div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=160&section=header&text=I'm%20Park%20jaeyong&fontSize=60&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20my%20github👍&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-  ###  :wave: Welcome my github profile !
-  <br/>
+
+
+
+<br/><br/>
+![Anurag's GitHub stats](https://github-readme-stats.zohan.tech/api?username=jyparkDev&show_icons=true&theme=tokyonight&layout=compact)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjjy92)](https://solved.ac/pjjy92/) -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjypark92%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=about-dot-me.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
-  <br/><br/> <br/>
- 
-  ###  :computer: Tech Stack
-  
-<!-- ###### FRONT
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
-![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white) -->
 
-##### - BACK -
-  
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![hibernate](https://img.shields.io/badge/hibernate-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white)
-  
-##### - Tools -
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-  
-##### - ML/DL -
-![TensorFlow](https://img.shields.io/badge/TensorFlow-F05032.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
-  
-  <br/><br/>  <br/>
-###   :star: Stats 
 
+<hr>
+<br><br>
+<hr>
+
+### :computer: Tech Stack
+</div>
+
+<hr>
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+  <!-- Frontend -->
+    <div>
+        <strong>Frontend  &nbsp;: </strong>
+        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/jQuery-0769AD.svg?&style=flat-square&logo=jQuery&logoColor=white" />  
+    </div>
+    <br>
+    <!-- Backend -->
+    <div>
+      <strong>Backend  &nbsp;: </strong>&nbsp;
+         <img src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white">&nbsp;
+         <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white">
+    </div>
+    <br/>
+     <!-- FrameWork -->
+    <div>
+      <strong>FrameWork  &nbsp;: </strong>&nbsp;
+         <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white">
+         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat-square&logo=Spring%20Boot&logoColor=white">
+         <img src="https://img.shields.io/badge/hibernate-59666C.svg?&style=flat-square&logo=hibernate&logoColor=white">
+         <img src="https://img.shields.io/badge/Mybatis-59666C.svg?&style=flat-square&logoColor=white">
+    </div>
+    <br/>
+    <!-- Database -->
+    <div>
+        <strong>Database  &nbsp;: </strong>&nbsp;
+        <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white">
+        <img src="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white">
+        <img src="https://img.shields.io/badge/postgresql-4169E1.svg?&style=flat-square&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/mariadb-003545.svg?&style=flat-square&logo=mariadb&logoColor=white">
+    </div>#003545
+    <!-- Server -->
+    <div>
+        <strong>Server &nbsp;: </strong>&nbsp;
+        <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
+        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"> 
+    </div>
+    <br>
+     <!-- DEV TOOL -->
+    <div>
+        <strong>DevTool &nbsp;: </strong>&nbsp;
+        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
+        <img src="https://img.shields.io/badge/Eclipse%20IDEA-2C2255.svg?&style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
+        <img src="https://img.shields.io/badge/DBeaver-59666C.svg?&style=flat-square&logoColor=white">
+    </div>
+    <br>
+       <!-- VCS -->
+      <div>
+          <strong>VCS &nbsp;: </strong>&nbsp;
+          <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/github-181717.svg?&style=flat-square&logo=Git&logoColor=white">
+      </div>
+<hr>
 <!-- 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=DA70D6&size=45&center=true&vCenter=true&width=404&height=200&lines=%E3%80%80%E3%80%80Park+Jae+Yong+%E3%80%80%E3%80%80) -->
-<br/>
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjjy92)](https://solved.ac/pjjy92/)
-  
-![Anurag's GitHub stats](https://github-readme-stats.zohan.tech/api?username=jyparkDev&show_icons=true&theme=tokyonight&layout=compact)
 
-</div>  
+
+
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jypark92&layout=compact&card_width=50&theme=cobalt&hide=jupyter%20notebook,python)](https://github.com/anuraghazra/github-readme-stats)
 -->
