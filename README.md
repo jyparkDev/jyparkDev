@@ -56,7 +56,8 @@
         <img src="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white">
         <img src="https://img.shields.io/badge/postgresql-4169E1.svg?&style=flat-square&logo=postgresql&logoColor=white">
         <img src="https://img.shields.io/badge/mariadb-003545.svg?&style=flat-square&logo=mariadb&logoColor=white">
-    </div>#003545
+    </div>
+    <br/>
     <!-- Server -->
     <div>
         <strong>Server &nbsp;: </strong>&nbsp;
@@ -70,14 +71,22 @@
         <strong>DevTool &nbsp;: </strong>&nbsp;
         <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
         <img src="https://img.shields.io/badge/Eclipse%20IDEA-2C2255.svg?&style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
+        <img src="https://img.shields.io/badge/postman-FF6C37.svg?&style=flat-square&logoColor=white&logo=postman">
         <img src="https://img.shields.io/badge/DBeaver-59666C.svg?&style=flat-square&logoColor=white">
+    </div>
+    <br>
+     <!-- Test TOOL -->
+    <div>
+        <strong>Test &nbsp;: </strong>&nbsp;
+        <img src="https://img.shields.io/badge/junit5-25A162.svg?&style=flat-square&logo=junit5&logoColor=white">
+        <img src="https://img.shields.io/badge/Apache%20jmeter-F22128.svg?&style=flat-square&logo=apachejmeter&logoColor=white">
     </div>
     <br>
        <!-- VCS -->
       <div>
           <strong>VCS &nbsp;: </strong>&nbsp;
           <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/github-181717.svg?&style=flat-square&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/github-D22128.svg?&style=flat-square&logo=Git&logoColor=white">
       </div>
 <hr>
 <!-- 
