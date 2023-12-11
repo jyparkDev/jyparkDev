@@ -1,28 +1,27 @@
 <hr>
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20my%20github👍&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20my%20github👍&animation=twinkling&fontSize=30&fontAlignY=50&fontAlign=50&height=70&fontColor=eeeeee)
+
+</div>
+<hr>
 
 
-
-
-<br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.zohan.tech/api?username=jyparkDev&show_icons=true&theme=tokyonight&layout=compact)
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjjy92)](https://solved.ac/pjjy92/) -->
+<!--
+### :computer: Tech Stack
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjypark92%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=about-dot-me.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
+ -->
 
 
-<hr>
-<br><br>
-<hr>
-
-### :computer: Tech Stack
-</div>
-
-<hr>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
+      <!-- Backend -->
+    <div>
+      <strong>Backend  &nbsp;: </strong>&nbsp;
+         <img src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white">&nbsp;
+         <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white">
+    </div>
+    <br/>
   <!-- Frontend -->
     <div>
         <strong>Frontend  &nbsp;: </strong>
@@ -33,13 +32,6 @@
         <img src="https://img.shields.io/badge/jQuery-0769AD.svg?&style=flat-square&logo=jQuery&logoColor=white" />  
     </div>
     <br>
-    <!-- Backend -->
-    <div>
-      <strong>Backend  &nbsp;: </strong>&nbsp;
-         <img src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white">&nbsp;
-         <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white">
-    </div>
-    <br/>
      <!-- FrameWork -->
     <div>
       <strong>FrameWork  &nbsp;: </strong>&nbsp;
@@ -58,7 +50,7 @@
         <img src="https://img.shields.io/badge/mariadb-003545.svg?&style=flat-square&logo=mariadb&logoColor=white">
     </div>
     <br/>
-    <!-- Server -->
+    <!-- Server 
     <div>
         <strong>Server &nbsp;: </strong>&nbsp;
         <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
@@ -66,7 +58,7 @@
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"> 
     </div>
     <br>
-     <!-- DEV TOOL -->
+      DEV TOOL
     <div>
         <strong>DevTool &nbsp;: </strong>&nbsp;
         <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
@@ -75,20 +67,28 @@
         <img src="https://img.shields.io/badge/DBeaver-59666C.svg?&style=flat-square&logoColor=white">
     </div>
     <br>
-     <!-- Test TOOL -->
+      Test TOOL
     <div>
         <strong>Test &nbsp;: </strong>&nbsp;
         <img src="https://img.shields.io/badge/junit5-25A162.svg?&style=flat-square&logo=junit5&logoColor=white">
         <img src="https://img.shields.io/badge/Apache%20jmeter-F22128.svg?&style=flat-square&logo=apachejmeter&logoColor=white">
     </div>
     <br>
-       <!-- VCS -->
+        VCS 
       <div>
           <strong>VCS &nbsp;: </strong>&nbsp;
           <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/github-D22128.svg?&style=flat-square&logo=Git&logoColor=white">
-      </div>
+      </div>-->
+  
+![Anurag's GitHub stats](https://github-readme-stats.zohan.tech/api?username=jyparkDev&show_icons=true&theme=dracula&layout=compact)
+  
 <hr>
+
+
+
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjjy92)](https://solved.ac/pjjy92/) -->
+
 <!-- 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=DA70D6&size=45&center=true&vCenter=true&width=404&height=200&lines=%E3%80%80%E3%80%80Park+Jae+Yong+%E3%80%80%E3%80%80) -->
 
