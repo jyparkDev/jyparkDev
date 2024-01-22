@@ -15,6 +15,10 @@
 
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
+  - 🌱 I’m currently learning Vue.js <br><br>
+  - 🔭 I’m currently working on EAI, ESB engineering <br><br>
+  - 💼 I worked on the following project: Zigbang, NHN Smart APC
+  <hr>
       <!-- Backend -->
     <div>
       <strong>Backend  &nbsp;: </strong>&nbsp;
